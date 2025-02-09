@@ -1,7 +1,4 @@
 # 🚀 NetOpsChic - Where Networking Meets Automation & Chaos 💻
-
-![NetOpsChic Logo](tool-logo.png)
-
 ## Welcome to NetOpsChic! 🎉
 
 > "Just a tech geek who thought networking and DevOps weren’t chaotic enough—so I decided to mix them! Automating, breaking, fixing, and occasionally questioning my life choices (but in YAML). Stick around for tools, tutorials, and some good ol' troubleshooting therapy."
